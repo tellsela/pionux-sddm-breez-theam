@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Pionux
+
+Description=Pionux
+Author=Koompi Pionux Design Group
+Copyright=(c) 2019, Pionux
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/koompi/pionux/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=breeze
+Theme-API=2.0
